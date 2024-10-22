@@ -1,6 +1,6 @@
 {
   "name": "jsonresume-theme-kards",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Theme for JSON Resume based on Kards design by styleshout",
   "author": "XuluWarrior",
   "repository": {
@@ -24,7 +24,7 @@
     "@fortawesome/fontawesome-free": "^6.4.0",
     "handlebars": "^4.1.2",
     "handlebars-utils": "^1.0.6",
-    "marked": "^4.0.6",
+    "marked": "^14.1.0",
     "moment": "^2.24.0"
   },
   "devDependencies": {
@@ -35,6 +35,6 @@
   },
   "engineStrict": true,
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   }
 }
